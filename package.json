@@ -2,7 +2,7 @@
     "name": "vscode-back-forward-button",
     "displayName": "Back and Forward buttons",
     "description": "",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "icon": "icon.png",
     "publisher": "grimmer",
     "engines": {
