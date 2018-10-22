@@ -1,12 +1,15 @@
 {
     "name": "vscode-back-forward-button",
-    "displayName": "vscode-back-forward-button",
+    "displayName": "Back and Forward buttons",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "grimmer",
     "engines": {
-        "vscode": "^1.28.0"
+        "vscode": "^1.17.0"
     },
+    "repository": {
+        "url": "https://github.com/grimmer0125/vscode-back-forward-button"
+    },  
     "categories": [
         "Other"
     ],
@@ -15,12 +18,7 @@
     ],
     "main": "./out/extension",
     "contributes": {
-        "commands": [
-            {
-                "command": "extension.sayHello",
-                "title": "Hello World"
-            }
-        ]
+        "commands": []
     },
     "scripts": {
         "vscode:prepublish": "npm run compile",
