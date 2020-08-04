@@ -19,7 +19,22 @@
   ],
   "main": "./out/extension",
   "contributes": {
-    "commands": []
+    "commands": [],
+    "configuration": {
+      "title": "Back and Forward buttons",
+      "properties": {
+        "backAndForwardButtons.backText": {
+          "type": "string",
+          "default": "<",
+          "description": "The text to use for the back button"
+        },
+        "backAndForwardButtons.forwardText": {
+          "type": "string",
+          "default": ">",
+          "description": "The text to use for the forward button"
+        }
+      }
+    }
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
@@ -29,10 +44,10 @@
     "test": "npm run compile && node ./node_modules/vscode/bin/test"
   },
   "devDependencies": {
+    "@types/mocha": "^2.2.42",
+    "@types/node": "^8.10.62",
+    "tslint": "^5.20.1",
     "typescript": "^2.6.1",
-    "vscode": "^1.1.21",
-    "tslint": "^5.8.0",
-    "@types/node": "^8.10.25",
-    "@types/mocha": "^2.2.42"
+    "vscode": "^1.1.37"
   }
 }
