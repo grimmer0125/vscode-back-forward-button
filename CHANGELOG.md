@@ -5,6 +5,7 @@ All notable changes to the "vscode-back-forward-button" extension will be docume
 ## 0.1.3
 
 - Improve README (thanks, @rijobro)
+- Add settings to configure text for arrows (thanks, @datho7561)
 
 ## 0.1.2
 
