@@ -2,6 +2,11 @@
 
 All notable changes to the "vscode-back-forward-button" extension will be documented in this file.
 
+## 0.1.4
+
+- Change icon
+- Add description 
+
 ## 0.1.3
 
 - Improve README (thanks, @rijobro)
