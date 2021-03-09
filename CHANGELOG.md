@@ -2,6 +2,10 @@
 
 All notable changes to the "vscode-back-forward-button" extension will be documented in this file.
 
+## 0.1.5 
+
+- Use high resolution icon
+
 ## 0.1.4
 
 - Change icon

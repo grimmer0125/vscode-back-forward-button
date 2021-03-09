@@ -2,8 +2,8 @@
   "name": "vscode-back-forward-button",
   "displayName": "Back and Forward buttons",
   "description": "Add back and forward buttons on status bar",
-  "version": "0.1.4",
-  "icon": "icon.png",
+  "version": "0.1.5",
+  "icon": "icon256.png",
   "publisher": "grimmer",
   "engines": {
     "vscode": "^1.49.0"
