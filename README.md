@@ -6,4 +6,5 @@ Show back and forward buttons on status bar, as can be seen in other IDEs. They 
 
 ## Special Thanks To Maintainers
 
-A special thanks to [Richard Brown](https://github.com/rijobro) & [David Thompson](https://github.com/datho7561) for contributing their valueable time on this project.
+A special thanks to [Richard Brown](https://github.com/rijobro), [David Thompson](https://github.com/datho7561) and [Stef Kors
+](https://github.com/StefKors) for contributing their valueable time on this project.
