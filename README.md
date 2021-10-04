@@ -2,7 +2,7 @@
 
 Show back and forward buttons on status bar, as can be seen in other IDEs. They are equivalent to the shortcut on the top menu (Go->Back/Forward). The buttons are located towards the bottom left of the screen.
 
-<img width="855" alt="preview forward back button(1)" src="https://user-images.githubusercontent.com/11800807/131998798-76b1cc72-67b3-439d-91cc-e5077f84e259.png">
+<img width="855" alt="preview forward back button(1)" src="https://raw.githubusercontent.com/grimmer0125/vscode-back-forward-button/master/images/preview1.png">
 
 ## Special Thanks To Maintainers
 
